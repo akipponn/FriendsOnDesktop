@@ -1,0 +1,24 @@
+C:\Documents and Settings\ahino\My Documents\Magic Briefcase\Documents\vsProjects\Xna_WindowForm\Xna_WindowForm\bin\x86\Debug\Xna_WindowForm.exe
+C:\Documents and Settings\ahino\My Documents\Magic Briefcase\Documents\vsProjects\Xna_WindowForm\Xna_WindowForm\bin\x86\Debug\Xna_WindowForm.pdb
+C:\Documents and Settings\ahino\My Documents\Magic Briefcase\Documents\vsProjects\Xna_WindowForm\Xna_WindowForm\bin\x86\Debug\FarseerPhysics.dll
+C:\Documents and Settings\ahino\My Documents\Magic Briefcase\Documents\vsProjects\Xna_WindowForm\Xna_WindowForm\bin\x86\Debug\FarseerPhysics.pdb
+C:\Documents and Settings\ahino\My Documents\Magic Briefcase\Documents\vsProjects\Xna_WindowForm\Xna_WindowForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ahino\My Documents\Magic Briefcase\Documents\vsProjects\Xna_WindowForm\Xna_WindowForm\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\ahino\My Documents\Magic Briefcase\Documents\vsProjects\Xna_WindowForm\Xna_WindowForm\obj\x86\Debug\Xna_WindowForm.AppBaseForm.resources
+C:\Documents and Settings\ahino\My Documents\Magic Briefcase\Documents\vsProjects\Xna_WindowForm\Xna_WindowForm\obj\x86\Debug\Xna_WindowForm.csproj.GenerateResource.Cache
+C:\Documents and Settings\ahino\My Documents\Magic Briefcase\Documents\vsProjects\Xna_WindowForm\Xna_WindowForm\obj\x86\Debug\Xna_WindowForm.exe
+C:\Documents and Settings\ahino\My Documents\Magic Briefcase\Documents\vsProjects\Xna_WindowForm\Xna_WindowForm\obj\x86\Debug\Xna_WindowForm.pdb
+C:\Documents and Settings\ahino\My Documents\Magic Briefcase\Documents\vsProjects\Xna_WindowForm\Xna_WindowForm\bin\x86\Debug\Content\Images\kurobuta.xnb
+C:\Documents and Settings\ahino\My Documents\Magic Briefcase\Documents\vsProjects\Xna_WindowForm\Xna_WindowForm\obj\x86\Debug\Xna_WindowForm.Form_visualObject.resources
+C:\Users\akiko\Documents\Magic Briefcase\Documents\vsProjects\Xna_WindowForm\Xna_WindowForm\bin\x86\Debug\Content\Images\kurobuta.xnb
+C:\Users\akiko\Documents\Magic Briefcase\Documents\vsProjects\Xna_WindowForm\Xna_WindowForm\bin\x86\Debug\Xna_WindowForm.exe
+C:\Users\akiko\Documents\Magic Briefcase\Documents\vsProjects\Xna_WindowForm\Xna_WindowForm\bin\x86\Debug\Xna_WindowForm.pdb
+C:\Users\akiko\Documents\Magic Briefcase\Documents\vsProjects\Xna_WindowForm\Xna_WindowForm\bin\x86\Debug\FarseerPhysics.dll
+C:\Users\akiko\Documents\Magic Briefcase\Documents\vsProjects\Xna_WindowForm\Xna_WindowForm\bin\x86\Debug\FarseerPhysics.pdb
+C:\Users\akiko\Documents\Magic Briefcase\Documents\vsProjects\Xna_WindowForm\Xna_WindowForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\akiko\Documents\Magic Briefcase\Documents\vsProjects\Xna_WindowForm\Xna_WindowForm\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\akiko\Documents\Magic Briefcase\Documents\vsProjects\Xna_WindowForm\Xna_WindowForm\obj\x86\Debug\Xna_WindowForm.AppBaseForm.resources
+C:\Users\akiko\Documents\Magic Briefcase\Documents\vsProjects\Xna_WindowForm\Xna_WindowForm\obj\x86\Debug\Xna_WindowForm.Form_visualObject.resources
+C:\Users\akiko\Documents\Magic Briefcase\Documents\vsProjects\Xna_WindowForm\Xna_WindowForm\obj\x86\Debug\Xna_WindowForm.csproj.GenerateResource.Cache
+C:\Users\akiko\Documents\Magic Briefcase\Documents\vsProjects\Xna_WindowForm\Xna_WindowForm\obj\x86\Debug\Xna_WindowForm.exe
+C:\Users\akiko\Documents\Magic Briefcase\Documents\vsProjects\Xna_WindowForm\Xna_WindowForm\obj\x86\Debug\Xna_WindowForm.pdb

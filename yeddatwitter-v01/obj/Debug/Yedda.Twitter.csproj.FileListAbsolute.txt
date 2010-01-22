@@ -1,0 +1,10 @@
+C:\Users\akiko\Desktop\yeddatwitter-v01\bin\Debug\Yedda.Twitter.dll
+C:\Users\akiko\Desktop\yeddatwitter-v01\bin\Debug\Yedda.Twitter.pdb
+C:\Users\akiko\Desktop\yeddatwitter-v01\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\akiko\Desktop\yeddatwitter-v01\obj\Debug\Yedda.Twitter.dll
+C:\Users\akiko\Desktop\yeddatwitter-v01\obj\Debug\Yedda.Twitter.pdb
+C:\Users\hino\Documents\Magic Briefcase\Documents\vsProjects\TwitterFall\yeddatwitter-v01\bin\Debug\Yedda.Twitter.dll
+C:\Users\hino\Documents\Magic Briefcase\Documents\vsProjects\TwitterFall\yeddatwitter-v01\bin\Debug\Yedda.Twitter.pdb
+C:\Users\hino\Documents\Magic Briefcase\Documents\vsProjects\TwitterFall\yeddatwitter-v01\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hino\Documents\Magic Briefcase\Documents\vsProjects\TwitterFall\yeddatwitter-v01\obj\Debug\Yedda.Twitter.dll
+C:\Users\hino\Documents\Magic Briefcase\Documents\vsProjects\TwitterFall\yeddatwitter-v01\obj\Debug\Yedda.Twitter.pdb

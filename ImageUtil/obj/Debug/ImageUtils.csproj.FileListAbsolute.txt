@@ -1,0 +1,21 @@
+C:\Documents and Settings\AkikoHino\My Documents\Visual Studio 2008\Projects\DesktopSearchStudy\ImageUtil\bin\Debug\ImageUtil.dll
+C:\Documents and Settings\AkikoHino\My Documents\Visual Studio 2008\Projects\DesktopSearchStudy\ImageUtil\bin\Debug\ImageUtil.pdb
+C:\Documents and Settings\AkikoHino\My Documents\Visual Studio 2008\Projects\DesktopSearchStudy\ImageUtil\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\AkikoHino\My Documents\Visual Studio 2008\Projects\DesktopSearchStudy\ImageUtil\obj\Debug\ImageUtil.dll
+C:\Documents and Settings\AkikoHino\My Documents\Visual Studio 2008\Projects\DesktopSearchStudy\ImageUtil\obj\Debug\ImageUtil.pdb
+C:\Documents and Settings\AkikoHino\My Documents\Visual Studio 2008\Projects\DesktopSearchStudy\ImageUtil\obj\Debug\ImageUtil.Properties.Resources.resources
+C:\Documents and Settings\AkikoHino\My Documents\Visual Studio 2008\Projects\DesktopSearchStudy\ImageUtil\obj\Debug\ImageUtils.csproj.GenerateResource.Cache
+I:\T60BKUP_200909\My Documents\Visual Studio 2008\Projects\DesktopSearchStudy\ImageUtil\bin\Debug\ImageUtil.dll
+I:\T60BKUP_200909\My Documents\Visual Studio 2008\Projects\DesktopSearchStudy\ImageUtil\bin\Debug\ImageUtil.pdb
+I:\T60BKUP_200909\My Documents\Visual Studio 2008\Projects\DesktopSearchStudy\ImageUtil\obj\Debug\ResolveAssemblyReference.cache
+I:\T60BKUP_200909\My Documents\Visual Studio 2008\Projects\DesktopSearchStudy\ImageUtil\obj\Debug\ImageUtil.Properties.Resources.resources
+I:\T60BKUP_200909\My Documents\Visual Studio 2008\Projects\DesktopSearchStudy\ImageUtil\obj\Debug\ImageUtils.csproj.GenerateResource.Cache
+I:\T60BKUP_200909\My Documents\Visual Studio 2008\Projects\DesktopSearchStudy\ImageUtil\obj\Debug\ImageUtil.dll
+I:\T60BKUP_200909\My Documents\Visual Studio 2008\Projects\DesktopSearchStudy\ImageUtil\obj\Debug\ImageUtil.pdb
+C:\Users\akiko\Desktop\ExplorerableDesktop\ImageUtil\bin\Debug\ImageUtil.dll
+C:\Users\akiko\Desktop\ExplorerableDesktop\ImageUtil\bin\Debug\ImageUtil.pdb
+C:\Users\akiko\Desktop\ExplorerableDesktop\ImageUtil\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\akiko\Desktop\ExplorerableDesktop\ImageUtil\obj\Debug\ImageUtil.Properties.Resources.resources
+C:\Users\akiko\Desktop\ExplorerableDesktop\ImageUtil\obj\Debug\ImageUtils.csproj.GenerateResource.Cache
+C:\Users\akiko\Desktop\ExplorerableDesktop\ImageUtil\obj\Debug\ImageUtil.dll
+C:\Users\akiko\Desktop\ExplorerableDesktop\ImageUtil\obj\Debug\ImageUtil.pdb

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Yedda.Twitter">
+</Property><Property Name="ソリューション ファイル" Value="C:\Users\akiko\Desktop\yeddatwitter-v01\Yedda.Twitter.sln">
+</Property><Property Name="Date" Value="2009年11月18日">
+</Property><Property Name="Time" Value="1:29:54">
+</Property></Properties><Event ErrorLevel="0" Project="Yedda.Twitter" Source="Yedda.Twitter.csproj" Description="プロジェクト ファイルは正常に C:\Users\akiko\Desktop\yeddatwitter-v01\Backup\Yedda.Twitter.csproj としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="Yedda.Twitter" Source="Properties\AssemblyInfo.cs" Description="ファイルは正常に C:\Users\akiko\Desktop\yeddatwitter-v01\Backup\Properties\AssemblyInfo.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="Yedda.Twitter" Source="Twitter.cs" Description="ファイルは正常に C:\Users\akiko\Desktop\yeddatwitter-v01\Backup\Twitter.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="Yedda.Twitter" Source="Yedda.Twitter.csproj" Description="プロジェクトは正常に変換されました。">
+</Event><Event ErrorLevel="3" Project="Yedda.Twitter" Source="Yedda.Twitter.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Yedda.Twitter" Source="Yedda.Twitter.csproj" Description="スキャンが完了しました: プロジェクト ファイルにアップグレードは必要ありません。">
+</Event></UpgradeLog>

@@ -1,0 +1,5 @@
+C:\Users\akiko\Documents\Magic Briefcase\Documents\vsProjects\Farseer Physics 2.1.2 XNA with simple samples\Farseer Physics 2.1.2 XNA\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ahino\My Documents\Magic Briefcase\Documents\vsProjects\Xna_WindowForm\Farseer Physics 2.1.2 XNA\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\akiko\Documents\Magic Briefcase\Documents\vsProjects\Xna_WindowForm\Farseer Physics 2.1.2 XNA\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\akiko\Documents\Magic Briefcase\Documents\vsProjects\TwitterFall\Farseer Physics 2.1.2 XNA\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hino\Documents\Magic Briefcase\Documents\vsProjects\TwitterFall\Farseer Physics 2.1.2 XNA\Content\obj\x86\Debug\ResolveAssemblyReference.cache
